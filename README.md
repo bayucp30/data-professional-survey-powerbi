@@ -7,6 +7,7 @@ This project analyzes a global survey of data professionals to understand:
 * Salary differences by job title
 * Programming language preferences
 * Work-life balance satisfaction
+* Salary satisfaction
 * Difficulty entering the data field
 * Demographics of respondents
 
